@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+// These are all the tokens.
 struct BlackColorTokens {
     static let a0: Color = Color(red: 20/255, green: 20/255, blue: 20/255, opacity: 0)
     static let a68: Color = Color(red: 20/255, green: 20/255, blue: 20/255, opacity: 0.68)
